@@ -1,0 +1,1 @@
+This project allows the implementation of using NODEJS EXPRESS to be able to post, get, and delete incoming data. It is able to also display incoming JSON data and apply proper keys for displaying and apending to existing data. Manipulates the given data so that new data can be posted or over written or deleted if needed.
